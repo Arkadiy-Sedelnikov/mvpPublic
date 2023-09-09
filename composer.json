@@ -1,0 +1,18 @@
+{
+  "require": {
+    "ext-mysqli": "*",
+    "ext-simplexml": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "Classes\\": "classes",
+      "Controllers\\": "controllers",
+      "Models\\": "models",
+      "Views\\": "views",
+      "Crons\\": "crons"
+    },
+    "files": [
+      "config/config.php"
+    ]
+  }
+}

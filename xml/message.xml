@@ -1,0 +1,9 @@
+<?xml version="1.0" standalone="no" ?>
+<logs>
+    <log>
+        <well>Ya_107</well>
+        <equipment>Буровой станок</equipment>
+        <product>Долото ДТМ-500</product>
+        <failure>Большой износ</failure>
+    </log>
+</logs>
